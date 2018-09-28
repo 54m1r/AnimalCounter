@@ -1,0 +1,7 @@
+name: AnimalCounter
+version: ${project.version}
+main: life.timber.animalcounter.AnimalCounter
+authors: [PremiumWindel]
+
+commands:
+  stats:
